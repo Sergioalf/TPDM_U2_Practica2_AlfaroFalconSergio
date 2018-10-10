@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TPDM_U2_Practica2_AlfaroFalconSergio</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="Activity1">SEGUROS ALFARO</string>
+    <string name="Activity2">DUEÑOS</string>
+    <string name="Activity3">PÓLIZAS</string>
+    <string name="Activity4">DUEÑO</string>
+    <string name="Activity5">PÓLIZA</string>
+</resources>
